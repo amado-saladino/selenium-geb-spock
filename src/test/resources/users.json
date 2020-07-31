@@ -1,0 +1,12 @@
+{
+"users": [
+    {
+      "fullname": "Ahmed",
+      "email": "ahmed@mail.com"
+    },
+    {
+      "fullname": "Islam",
+      "email": "islam@mail.com"
+    }
+  ]
+ }
